@@ -2,6 +2,11 @@ body{
     background-color: #368fca;
 }
 
+h1{ 
+    color:blue;
+    text-align: right;
+    font-size:30px;
+}
 p{
    color: red;
     text-align: center;
