@@ -1,5 +1,5 @@
 body{
-    background-color: #368fca;
+    background-color: #522fca;
 }
 /* usa esse para colocar comentario no css*/
 h1{ 
@@ -8,7 +8,7 @@ h1{
     font-size:30px;
 }
 p{
-   color: red;
+   color: brown;
     text-align: center;
 }
 em strong {
