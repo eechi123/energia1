@@ -1,3 +1,6 @@
+#titulo {
+    text-align: center;
+}
 body{
     background-color: #133fbb;
 }
@@ -7,7 +10,7 @@ h1{
     text-align: right;
     font-size:30px;
 }
-p{
+.texto{
    color: brown;
     text-align: left;
 }
