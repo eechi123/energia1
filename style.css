@@ -17,6 +17,6 @@ h1{
 em strong {
     color: #FF0000;
 }
-img {
-    text-align: center;
+#banner {
+    width: 100%;
 }
