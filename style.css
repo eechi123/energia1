@@ -17,3 +17,6 @@ h1{
 em strong {
     color: #FF0000;
 }
+ul,ol{
+    list-style-type: "\write correct hex code";
+  }
