@@ -17,11 +17,11 @@ h1{
 em strong {
     color: #FF0000;
 }
-ol{
+li{
     list-style-type: "\&#127988";
   }
 
-  ul{
+  li{
     list-style-type: "\ &#128681";
   }
  
