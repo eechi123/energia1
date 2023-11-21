@@ -17,6 +17,11 @@ h1{
 em strong {
     color: #FF0000;
 }
-ul,ol{
+ol{
     list-style-type: "\&#127988";
   }
+
+  ul{
+    list-style-type: "\ &#128681";
+  }
+ 
