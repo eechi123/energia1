@@ -6,22 +6,24 @@ body{
 }
 /* usa esse para colocar comentario no css*/
 h1{
-    color:blue;
+    color:rgb(42, 42, 54);
     text-align:right;
     font-size:30px;
+    font-style: oblique;
 }
 .texto{
    color: brown;
     text-align: justify;
+    font: size 20px;px;
 }
 em strong {
     color: #7b00ff;
 }
 li{
-    list-style-type: "\&#127988";
+    list-style-type: "&#127988";
   }
 
   li{
-    list-style-type: "\ &#128681";
+    list-style-type: "&#128681";
   }
  
