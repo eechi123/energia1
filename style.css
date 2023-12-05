@@ -11,7 +11,13 @@ body{
 h1{
     color:rgb(42, 42, 54);
     text-align:right;
-    font-size:30px;
+    font-size:40px;
+    font-style: oblique;
+}
+h2{
+    color:rgb(42, 42, 54);
+    text-align:right;
+    font-size:20px;
     font-style: oblique;
 }
 .texto{
